@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Marlon Santiago</h1>
 <h3 align="center">Soy Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/marlonxsantiago96](https://www.linkedin.com/in/marlonxsantiago96)
-
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, NODEJS, JAVA y C#**
 
 - 📫 How to reach me **santiagoxmarlon96@gmail.com**
